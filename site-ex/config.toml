@@ -1,5 +1,5 @@
+baseurl = "http://dgoscn.github.io/site-ex/"
 languageCode = "en-us"
-baseurl = "https://dgoscn.github.io/site-ex/"
 title = "Diego Go"
 theme = "aerial"
 
