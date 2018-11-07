@@ -1,4 +1,5 @@
 languageCode = "en-us"
+baseurl = "https://dgoscn.github.io/site-ex/"
 title = "Diego Go"
 theme = "aerial"
 
